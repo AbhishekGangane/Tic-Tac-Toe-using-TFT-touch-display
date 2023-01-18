@@ -9,10 +9,10 @@
 #include <stdint.h>
 #include "TouchScreen.h"
 
-#define YP A2  
-#define XM A3 
-#define YM 8   
-#define XP 9   
+#define YP A1 
+#define XM A2 
+#define YM 7  
+#define XP 6   
 
 // For better pressure precision, we need to know the resistance
 // between X+ and X- Use any multimeter to read it
